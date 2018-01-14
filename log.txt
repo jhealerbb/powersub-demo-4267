@@ -1,3 +1,4 @@
 50525. chore: rename env.example #50525
 22234. style: rename variables for clarity #22234
 3283. chore: update .gitignore #3283
+9294. refactor: clean up auth middleware #9294
