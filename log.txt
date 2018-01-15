@@ -3,3 +3,4 @@
 3283. chore: update .gitignore #3283
 9294. refactor: clean up auth middleware #9294
 68495. feat: create admin dashboard #68495
+88491. test: mock database connection in test suite #88491
