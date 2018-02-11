@@ -14,3 +14,4 @@
 99499. refactor: remove redundant code blocks #99499
 28650. refactor: refactor quiz grading logic #28650
 49377. test: add unit test for quiz service #49377
+27466. style: reformat files with black #27466
