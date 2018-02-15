@@ -15,3 +15,4 @@
 28650. refactor: refactor quiz grading logic #28650
 49377. test: add unit test for quiz service #49377
 27466. style: reformat files with black #27466
+3039. fix: handle 500 error in quiz API #3039
