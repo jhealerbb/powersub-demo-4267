@@ -17,3 +17,4 @@
 27466. style: reformat files with black #27466
 3039. fix: handle 500 error in quiz API #3039
 70748. docs: write FAQ section #70748
+97530. fix: fix null pointer exception on login #97530
