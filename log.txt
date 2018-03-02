@@ -18,3 +18,4 @@
 3039. fix: handle 500 error in quiz API #3039
 70748. docs: write FAQ section #70748
 97530. fix: fix null pointer exception on login #97530
+96446. refactor: organize models into subfolders #96446
