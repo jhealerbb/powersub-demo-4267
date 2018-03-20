@@ -22,3 +22,4 @@
 40116. perf: optimize database query for quiz results #40116
 3847. docs: add API usage examples #3847
 55831. fix: fix broken CSS in mobile view #55831
+96575. fix: prevent crash on empty input #96575
