@@ -24,3 +24,4 @@
 55831. fix: fix broken CSS in mobile view #55831
 96575. fix: prevent crash on empty input #96575
 95971. style: standardize quote style #95971
+31194. test: mock database connection in test suite #31194
