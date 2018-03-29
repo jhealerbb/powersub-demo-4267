@@ -27,3 +27,4 @@
 31194. test: mock database connection in test suite #31194
 15407. chore: add GitHub actions badge #15407
 12395. style: remove trailing whitespace #12395
+82681. feat: enable dark mode toggle #82681
