@@ -29,3 +29,4 @@
 12395. style: remove trailing whitespace #12395
 82681. feat: enable dark mode toggle #82681
 53373. perf: optimize database query for quiz results #53373
+24853. fix: resolve issue with date parsing #24853
