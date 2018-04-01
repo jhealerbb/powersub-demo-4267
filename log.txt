@@ -30,3 +30,4 @@
 82681. feat: enable dark mode toggle #82681
 53373. perf: optimize database query for quiz results #53373
 24853. fix: resolve issue with date parsing #24853
+42523. chore: add GitHub actions badge #42523
