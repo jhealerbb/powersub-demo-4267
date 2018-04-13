@@ -32,3 +32,4 @@
 24853. fix: resolve issue with date parsing #24853
 42523. chore: add GitHub actions badge #42523
 80427. docs: add API usage examples #80427
+15411. chore: update .gitignore #15411
