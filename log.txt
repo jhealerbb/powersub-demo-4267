@@ -39,3 +39,4 @@
 46360. feat: add user authentication #46360
 91537. chore: rename env.example #91537
 84806. perf: optimize database query for quiz results #84806
+92162. fix: resolve issue with date parsing #92162
