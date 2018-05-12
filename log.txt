@@ -42,3 +42,4 @@
 92162. fix: resolve issue with date parsing #92162
 41512. perf: reduce image load time #41512
 87267. chore: add GitHub actions badge #87267
+95950. fix: prevent crash on empty input #95950
