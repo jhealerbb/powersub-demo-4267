@@ -45,3 +45,4 @@
 95950. fix: prevent crash on empty input #95950
 14053. refactor: remove redundant code blocks #14053
 97081. feat: implement quiz timer feature #97081
+31889. perf: reduce image load time #31889
