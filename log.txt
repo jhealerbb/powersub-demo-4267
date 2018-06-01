@@ -47,3 +47,4 @@
 97081. feat: implement quiz timer feature #97081
 31889. perf: reduce image load time #31889
 62837. feat: support email verification #62837
+77356. test: test user registration edge cases #77356
