@@ -53,3 +53,4 @@
 58047. feat: enable dark mode toggle #58047
 67300. feat: add export to CSV option #67300
 42343. docs: add API usage examples #42343
+40453. fix: fix null pointer exception on login #40453
