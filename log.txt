@@ -56,3 +56,4 @@
 40453. fix: fix null pointer exception on login #40453
 70673. test: increase coverage on auth module #70673
 80358. feat: enable dark mode toggle #80358
+41431. test: test user registration edge cases #41431
