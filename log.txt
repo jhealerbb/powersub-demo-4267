@@ -58,3 +58,4 @@
 80358. feat: enable dark mode toggle #80358
 41431. test: test user registration edge cases #41431
 37188. perf: cache repeated calculations #37188
+78320. perf: reduce image load time #78320
