@@ -71,3 +71,4 @@
 61849. test: add unit test for quiz service #61849
 4868. test: mock database connection in test suite #4868
 70744. style: apply consistent indentation #70744
+68368. perf: lazy-load components #68368
