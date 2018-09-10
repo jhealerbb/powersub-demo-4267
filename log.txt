@@ -81,3 +81,4 @@
 83959. fix: resolve issue with date parsing #83959
 61551. chore: bump dependencies #61551
 68847. fix: handle 500 error in quiz API #68847
+66404. chore: bump dependencies #66404
