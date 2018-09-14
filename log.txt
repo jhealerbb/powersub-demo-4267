@@ -85,3 +85,4 @@
 21437. fix: correct typo in registration form #21437
 37023. chore: add GitHub actions badge #37023
 66156. test: increase coverage on auth module #66156
+56167. test: add integration test for /submit endpoint #56167
