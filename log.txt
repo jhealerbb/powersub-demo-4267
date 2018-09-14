@@ -84,3 +84,4 @@
 66404. chore: bump dependencies #66404
 21437. fix: correct typo in registration form #21437
 37023. chore: add GitHub actions badge #37023
+66156. test: increase coverage on auth module #66156
