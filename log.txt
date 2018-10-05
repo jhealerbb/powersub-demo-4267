@@ -91,3 +91,4 @@
 15898. refactor: refactor quiz grading logic #15898
 45771. docs: document token refresh logic #45771
 13272. fix: handle 500 error in quiz API #13272
+54384. refactor: clean up auth middleware #54384
