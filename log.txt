@@ -97,3 +97,4 @@
 40610. docs: clarify environment setup #40610
 98019. test: mock database connection in test suite #98019
 24332. perf: cache repeated calculations #24332
+12792. refactor: organize models into subfolders #12792
