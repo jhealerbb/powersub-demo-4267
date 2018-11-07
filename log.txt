@@ -99,3 +99,4 @@
 24332. perf: cache repeated calculations #24332
 12792. refactor: organize models into subfolders #12792
 26916. fix: fix broken CSS in mobile view #26916
+3413. style: apply consistent indentation #3413
