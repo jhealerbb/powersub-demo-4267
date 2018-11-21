@@ -102,3 +102,4 @@
 3413. style: apply consistent indentation #3413
 86418. style: remove trailing whitespace #86418
 1763. feat: implement quiz timer feature #1763
+97724. refactor: clean up auth middleware #97724
