@@ -104,3 +104,4 @@
 1763. feat: implement quiz timer feature #1763
 97724. refactor: clean up auth middleware #97724
 27599. refactor: remove redundant code blocks #27599
+15515. perf: lazy-load components #15515
