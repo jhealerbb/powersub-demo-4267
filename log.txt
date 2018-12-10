@@ -110,3 +110,4 @@
 86997. test: increase coverage on auth module #86997
 98858. refactor: split large controller into smaller functions #98858
 24172. style: standardize quote style #24172
+92506. feat: add user authentication #92506
