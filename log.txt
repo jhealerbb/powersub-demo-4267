@@ -121,3 +121,4 @@
 1788. chore: rename env.example #1788
 85016. perf: cache repeated calculations #85016
 83623. refactor: remove redundant code blocks #83623
+21939. refactor: organize models into subfolders #21939
