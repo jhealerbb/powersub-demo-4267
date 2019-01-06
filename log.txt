@@ -122,3 +122,4 @@
 85016. perf: cache repeated calculations #85016
 83623. refactor: remove redundant code blocks #83623
 21939. refactor: organize models into subfolders #21939
+7457. perf: lazy-load components #7457
