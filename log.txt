@@ -128,3 +128,4 @@
 16433. perf: cache repeated calculations #16433
 88194. docs: improve code comments in utils #88194
 34403. fix: prevent crash on empty input #34403
+83852. style: remove trailing whitespace #83852
