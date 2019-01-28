@@ -129,3 +129,4 @@
 88194. docs: improve code comments in utils #88194
 34403. fix: prevent crash on empty input #34403
 83852. style: remove trailing whitespace #83852
+98661. perf: lazy-load components #98661
