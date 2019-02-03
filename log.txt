@@ -132,3 +132,4 @@
 98661. perf: lazy-load components #98661
 11383. perf: lazy-load components #11383
 46963. feat: create admin dashboard #46963
+98506. fix: fix broken CSS in mobile view #98506
