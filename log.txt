@@ -134,3 +134,4 @@
 46963. feat: create admin dashboard #46963
 98506. fix: fix broken CSS in mobile view #98506
 8340. refactor: remove redundant code blocks #8340
+47554. feat: enable dark mode toggle #47554
