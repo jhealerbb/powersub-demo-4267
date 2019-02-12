@@ -135,3 +135,4 @@
 98506. fix: fix broken CSS in mobile view #98506
 8340. refactor: remove redundant code blocks #8340
 47554. feat: enable dark mode toggle #47554
+77561. fix: correct typo in registration form #77561
