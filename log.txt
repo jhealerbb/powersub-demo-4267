@@ -137,3 +137,4 @@
 47554. feat: enable dark mode toggle #47554
 77561. fix: correct typo in registration form #77561
 46497. chore: clean up unused files #46497
+37244. chore: update .gitignore #37244
