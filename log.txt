@@ -141,3 +141,4 @@
 67648. style: standardize quote style #67648
 40011. docs: add API usage examples #40011
 33949. test: increase coverage on auth module #33949
+16824. refactor: remove redundant code blocks #16824
