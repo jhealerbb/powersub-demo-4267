@@ -144,3 +144,4 @@
 16824. refactor: remove redundant code blocks #16824
 91172. feat: create admin dashboard #91172
 82280. refactor: refactor quiz grading logic #82280
+16753. fix: fix null pointer exception on login #16753
