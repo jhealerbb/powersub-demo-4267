@@ -147,3 +147,4 @@
 16753. fix: fix null pointer exception on login #16753
 81950. refactor: refactor quiz grading logic #81950
 38716. style: apply consistent indentation #38716
+49031. test: add unit test for quiz service #49031
