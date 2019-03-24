@@ -149,3 +149,4 @@
 38716. style: apply consistent indentation #38716
 49031. test: add unit test for quiz service #49031
 19696. feat: support email verification #19696
+52544. fix: prevent crash on empty input #52544
