@@ -152,3 +152,4 @@
 52544. fix: prevent crash on empty input #52544
 16414. feat: implement quiz timer feature #16414
 99128. perf: reduce image load time #99128
+65044. test: increase coverage on auth module #65044
