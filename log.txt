@@ -157,3 +157,4 @@
 0403. fix: resolve issue with date parsing #403
 50926. docs: clarify environment setup #50926
 60282. test: test user registration edge cases #60282
+10829. perf: lazy-load components #10829
