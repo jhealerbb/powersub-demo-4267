@@ -161,3 +161,4 @@
 97819. refactor: organize models into subfolders #97819
 59691. style: reformat files with black #59691
 13733. perf: cache repeated calculations #13733
+24111. docs: update README with setup steps #24111
