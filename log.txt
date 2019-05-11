@@ -162,3 +162,4 @@
 59691. style: reformat files with black #59691
 13733. perf: cache repeated calculations #13733
 24111. docs: update README with setup steps #24111
+48001. perf: reduce image load time #48001
