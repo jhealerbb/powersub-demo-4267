@@ -165,3 +165,4 @@
 48001. perf: reduce image load time #48001
 33757. fix: correct typo in registration form #33757
 47598. feat: support email verification #47598
+67028. style: standardize quote style #67028
