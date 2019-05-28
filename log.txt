@@ -166,3 +166,4 @@
 33757. fix: correct typo in registration form #33757
 47598. feat: support email verification #47598
 67028. style: standardize quote style #67028
+74649. feat: create admin dashboard #74649
