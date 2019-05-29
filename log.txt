@@ -167,3 +167,4 @@
 47598. feat: support email verification #47598
 67028. style: standardize quote style #67028
 74649. feat: create admin dashboard #74649
+73653. test: test user registration edge cases #73653
