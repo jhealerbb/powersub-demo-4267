@@ -169,3 +169,4 @@
 74649. feat: create admin dashboard #74649
 73653. test: test user registration edge cases #73653
 23025. style: apply consistent indentation #23025
+30049. docs: clarify environment setup #30049
