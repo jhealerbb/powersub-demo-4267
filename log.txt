@@ -171,3 +171,4 @@
 23025. style: apply consistent indentation #23025
 30049. docs: clarify environment setup #30049
 94650. chore: rename env.example #94650
+46283. test: test user registration edge cases #46283
