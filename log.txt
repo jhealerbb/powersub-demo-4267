@@ -182,3 +182,4 @@
 20824. style: rename variables for clarity #20824
 14678. style: rename variables for clarity #14678
 80254. style: rename variables for clarity #80254
+80592. fix: fix null pointer exception on login #80592
