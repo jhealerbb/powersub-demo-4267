@@ -185,3 +185,4 @@
 80592. fix: fix null pointer exception on login #80592
 7049. docs: improve code comments in utils #7049
 93731. style: remove trailing whitespace #93731
+43770. feat: enable dark mode toggle #43770
