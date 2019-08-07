@@ -190,3 +190,4 @@
 66362. test: test user registration edge cases #66362
 24674. test: add unit test for quiz service #24674
 36699. chore: clean up unused files #36699
+83761. fix: resolve issue with date parsing #83761
