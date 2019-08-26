@@ -195,3 +195,4 @@
 50732. fix: resolve issue with date parsing #50732
 67990. docs: improve code comments in utils #67990
 41917. feat: support email verification #41917
+96137. test: test user registration edge cases #96137
