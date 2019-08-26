@@ -196,3 +196,4 @@
 67990. docs: improve code comments in utils #67990
 41917. feat: support email verification #41917
 96137. test: test user registration edge cases #96137
+20779. test: increase coverage on auth module #20779
