@@ -200,3 +200,4 @@
 16047. style: rename variables for clarity #16047
 80964. refactor: refactor quiz grading logic #80964
 52376. feat: add user authentication #52376
+71910. fix: fix null pointer exception on login #71910
