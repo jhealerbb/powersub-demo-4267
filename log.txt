@@ -201,3 +201,4 @@
 80964. refactor: refactor quiz grading logic #80964
 52376. feat: add user authentication #52376
 71910. fix: fix null pointer exception on login #71910
+21434. test: test user registration edge cases #21434
