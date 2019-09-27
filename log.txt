@@ -205,3 +205,4 @@
 7038. style: reformat files with black #7038
 94651. refactor: refactor quiz grading logic #94651
 80549. style: standardize quote style #80549
+36284. docs: clarify environment setup #36284
