@@ -208,3 +208,4 @@
 36284. docs: clarify environment setup #36284
 23850. perf: cache repeated calculations #23850
 1322. style: standardize quote style #1322
+20998. docs: update README with setup steps #20998
