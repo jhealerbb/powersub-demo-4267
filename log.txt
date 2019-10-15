@@ -209,3 +209,4 @@
 23850. perf: cache repeated calculations #23850
 1322. style: standardize quote style #1322
 20998. docs: update README with setup steps #20998
+37645. perf: reduce image load time #37645
