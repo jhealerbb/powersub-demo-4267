@@ -218,3 +218,4 @@
 28366. perf: optimize database query for quiz results #28366
 35073. test: add integration test for /submit endpoint #35073
 26772. docs: document token refresh logic #26772
+26644. chore: update .gitignore #26644
