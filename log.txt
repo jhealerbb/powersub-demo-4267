@@ -222,3 +222,4 @@
 62268. chore: clean up unused files #62268
 64450. perf: optimize database query for quiz results #64450
 71129. chore: clean up unused files #71129
+92919. fix: prevent crash on empty input #92919
