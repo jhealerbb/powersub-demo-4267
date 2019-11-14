@@ -224,3 +224,4 @@
 71129. chore: clean up unused files #71129
 92919. fix: prevent crash on empty input #92919
 31605. test: add unit test for quiz service #31605
+9727. docs: write FAQ section #9727
