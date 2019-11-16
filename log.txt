@@ -226,3 +226,4 @@
 31605. test: add unit test for quiz service #31605
 9727. docs: write FAQ section #9727
 68216. test: increase coverage on auth module #68216
+83572. perf: lazy-load components #83572
