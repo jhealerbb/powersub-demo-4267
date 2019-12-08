@@ -231,3 +231,4 @@
 4879. feat: implement quiz timer feature #4879
 50438. perf: reduce image load time #50438
 55537. fix: fix broken CSS in mobile view #55537
+12610. chore: rename env.example #12610
