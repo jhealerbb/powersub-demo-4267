@@ -233,3 +233,4 @@
 55537. fix: fix broken CSS in mobile view #55537
 12610. chore: rename env.example #12610
 15883. fix: resolve issue with date parsing #15883
+31714. chore: add GitHub actions badge #31714
