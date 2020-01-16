@@ -239,3 +239,4 @@
 42995. perf: reduce image load time #42995
 82129. chore: rename env.example #82129
 44414. chore: rename env.example #44414
+27506. feat: support email verification #27506
