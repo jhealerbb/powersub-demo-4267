@@ -241,3 +241,4 @@
 44414. chore: rename env.example #44414
 27506. feat: support email verification #27506
 89278. refactor: split large controller into smaller functions #89278
+62031. docs: update README with setup steps #62031
