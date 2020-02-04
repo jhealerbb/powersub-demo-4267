@@ -246,3 +246,4 @@
 26404. fix: correct typo in registration form #26404
 49625. refactor: remove redundant code blocks #49625
 93462. feat: support email verification #93462
+26622. refactor: organize models into subfolders #26622
