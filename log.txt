@@ -247,3 +247,4 @@
 49625. refactor: remove redundant code blocks #49625
 93462. feat: support email verification #93462
 26622. refactor: organize models into subfolders #26622
+10434. feat: add user authentication #10434
