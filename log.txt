@@ -248,3 +248,4 @@
 93462. feat: support email verification #93462
 26622. refactor: organize models into subfolders #26622
 10434. feat: add user authentication #10434
+19872. fix: correct typo in registration form #19872
