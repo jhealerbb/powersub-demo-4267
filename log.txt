@@ -254,3 +254,4 @@
 54557. refactor: clean up auth middleware #54557
 76982. docs: add API usage examples #76982
 86923. perf: lazy-load components #86923
+89187. fix: fix null pointer exception on login #89187
