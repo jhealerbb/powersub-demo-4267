@@ -263,3 +263,4 @@
 40666. style: standardize quote style #40666
 41597. test: add integration test for /submit endpoint #41597
 48944. chore: add GitHub actions badge #48944
+46212. chore: rename env.example #46212
