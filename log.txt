@@ -265,3 +265,4 @@
 48944. chore: add GitHub actions badge #48944
 46212. chore: rename env.example #46212
 23498. fix: fix null pointer exception on login #23498
+60942. test: add integration test for /submit endpoint #60942
