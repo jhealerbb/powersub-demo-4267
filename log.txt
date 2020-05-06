@@ -276,3 +276,4 @@
 44275. test: add unit test for quiz service #44275
 81311. test: add unit test for quiz service #81311
 26737. test: add integration test for /submit endpoint #26737
+51465. test: test user registration edge cases #51465
