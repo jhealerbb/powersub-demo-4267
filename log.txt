@@ -279,3 +279,4 @@
 51465. test: test user registration edge cases #51465
 17934. test: add integration test for /submit endpoint #17934
 89893. perf: cache repeated calculations #89893
+42230. perf: lazy-load components #42230
