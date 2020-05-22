@@ -285,3 +285,4 @@
 30265. docs: update README with setup steps #30265
 33039. docs: add API usage examples #33039
 85627. feat: create admin dashboard #85627
+64631. refactor: clean up auth middleware #64631
