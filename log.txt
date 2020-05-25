@@ -288,3 +288,4 @@
 64631. refactor: clean up auth middleware #64631
 7860. fix: resolve issue with date parsing #7860
 90162. fix: fix broken CSS in mobile view #90162
+4669. style: rename variables for clarity #4669
