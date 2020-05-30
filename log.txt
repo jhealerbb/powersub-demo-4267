@@ -290,3 +290,4 @@
 90162. fix: fix broken CSS in mobile view #90162
 4669. style: rename variables for clarity #4669
 27533. perf: reduce image load time #27533
+82517. test: increase coverage on auth module #82517
