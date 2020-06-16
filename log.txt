@@ -299,3 +299,4 @@
 21342. style: rename variables for clarity #21342
 80315. style: reformat files with black #80315
 91393. docs: improve code comments in utils #91393
+76888. test: test user registration edge cases #76888
