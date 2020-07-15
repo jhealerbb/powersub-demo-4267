@@ -307,3 +307,4 @@
 11262. fix: fix broken CSS in mobile view #11262
 70444. chore: add GitHub actions badge #70444
 35049. feat: create admin dashboard #35049
+81821. feat: add export to CSV option #81821
