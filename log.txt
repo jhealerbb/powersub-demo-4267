@@ -312,3 +312,4 @@
 93936. fix: prevent crash on empty input #93936
 70863. refactor: refactor quiz grading logic #70863
 61490. docs: write FAQ section #61490
+90171. style: remove trailing whitespace #90171
