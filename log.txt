@@ -317,3 +317,4 @@
 96893. perf: reduce image load time #96893
 99335. docs: update README with setup steps #99335
 58670. docs: add API usage examples #58670
+68741. feat: enable dark mode toggle #68741
