@@ -322,3 +322,4 @@
 98399. test: test user registration edge cases #98399
 51378. refactor: clean up auth middleware #51378
 55718. chore: clean up unused files #55718
+35684. test: mock database connection in test suite #35684
