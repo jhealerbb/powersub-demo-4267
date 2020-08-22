@@ -325,3 +325,4 @@
 35684. test: mock database connection in test suite #35684
 79496. perf: lazy-load components #79496
 25663. style: reformat files with black #25663
+59495. perf: lazy-load components #59495
