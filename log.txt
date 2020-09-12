@@ -334,3 +334,4 @@
 17094. perf: cache repeated calculations #17094
 71312. feat: create admin dashboard #71312
 60677. chore: add GitHub actions badge #60677
+38945. feat: add export to CSV option #38945
