@@ -349,3 +349,4 @@
 53659. style: standardize quote style #53659
 55612. fix: correct typo in registration form #55612
 59509. refactor: organize models into subfolders #59509
+77652. chore: bump dependencies #77652
