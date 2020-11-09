@@ -350,3 +350,4 @@
 55612. fix: correct typo in registration form #55612
 59509. refactor: organize models into subfolders #59509
 77652. chore: bump dependencies #77652
+6427. perf: optimize database query for quiz results #6427
