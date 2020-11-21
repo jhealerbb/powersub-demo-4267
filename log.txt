@@ -354,3 +354,4 @@
 5302. refactor: refactor quiz grading logic #5302
 99126. docs: write FAQ section #99126
 35050. docs: write FAQ section #35050
+25517. refactor: clean up auth middleware #25517
