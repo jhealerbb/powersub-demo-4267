@@ -356,3 +356,4 @@
 35050. docs: write FAQ section #35050
 25517. refactor: clean up auth middleware #25517
 51058. refactor: organize models into subfolders #51058
+82875. feat: add export to CSV option #82875
