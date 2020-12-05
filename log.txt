@@ -358,3 +358,4 @@
 51058. refactor: organize models into subfolders #51058
 82875. feat: add export to CSV option #82875
 33414. refactor: split large controller into smaller functions #33414
+6005. perf: optimize database query for quiz results #6005
