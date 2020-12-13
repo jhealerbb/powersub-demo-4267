@@ -362,3 +362,4 @@
 18323. fix: fix null pointer exception on login #18323
 53889. test: add integration test for /submit endpoint #53889
 86001. chore: clean up unused files #86001
+96608. test: test user registration edge cases #96608
