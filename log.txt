@@ -364,3 +364,4 @@
 86001. chore: clean up unused files #86001
 96608. test: test user registration edge cases #96608
 25170. feat: support email verification #25170
+89170. test: increase coverage on auth module #89170
