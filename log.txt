@@ -367,3 +367,4 @@
 89170. test: increase coverage on auth module #89170
 18094. fix: handle 500 error in quiz API #18094
 34353. style: rename variables for clarity #34353
+29905. style: remove trailing whitespace #29905
