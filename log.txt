@@ -379,3 +379,4 @@
 0093. docs: clarify environment setup #93
 13369. style: remove trailing whitespace #13369
 46467. chore: add GitHub actions badge #46467
+49961. feat: support email verification #49961
