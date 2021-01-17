@@ -380,3 +380,4 @@
 13369. style: remove trailing whitespace #13369
 46467. chore: add GitHub actions badge #46467
 49961. feat: support email verification #49961
+44828. style: reformat files with black #44828
