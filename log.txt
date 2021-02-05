@@ -387,3 +387,4 @@
 62227. perf: reduce image load time #62227
 7969. fix: resolve issue with date parsing #7969
 19912. fix: resolve issue with date parsing #19912
+98881. fix: prevent crash on empty input #98881
