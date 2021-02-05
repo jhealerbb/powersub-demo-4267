@@ -389,3 +389,4 @@
 19912. fix: resolve issue with date parsing #19912
 98881. fix: prevent crash on empty input #98881
 38044. feat: create admin dashboard #38044
+17350. test: add integration test for /submit endpoint #17350
