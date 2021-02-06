@@ -390,3 +390,4 @@
 98881. fix: prevent crash on empty input #98881
 38044. feat: create admin dashboard #38044
 17350. test: add integration test for /submit endpoint #17350
+49245. test: add unit test for quiz service #49245
