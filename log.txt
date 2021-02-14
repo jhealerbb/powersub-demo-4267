@@ -394,3 +394,4 @@
 45423. chore: update .gitignore #45423
 23635. feat: add export to CSV option #23635
 49559. docs: improve code comments in utils #49559
+35700. chore: add GitHub actions badge #35700
