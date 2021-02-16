@@ -395,3 +395,4 @@
 23635. feat: add export to CSV option #23635
 49559. docs: improve code comments in utils #49559
 35700. chore: add GitHub actions badge #35700
+93256. fix: prevent crash on empty input #93256
