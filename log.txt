@@ -409,3 +409,4 @@
 25387. style: remove trailing whitespace #25387
 30802. refactor: clean up auth middleware #30802
 55100. test: add unit test for quiz service #55100
+23390. fix: correct typo in registration form #23390
