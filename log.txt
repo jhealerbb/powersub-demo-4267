@@ -411,3 +411,4 @@
 55100. test: add unit test for quiz service #55100
 23390. fix: correct typo in registration form #23390
 71414. fix: resolve issue with date parsing #71414
+35343. feat: create admin dashboard #35343
