@@ -420,3 +420,4 @@
 74619. feat: implement quiz timer feature #74619
 64284. style: standardize quote style #64284
 68022. feat: implement quiz timer feature #68022
+2625. chore: update .gitignore #2625
