@@ -427,3 +427,4 @@
 41498. fix: correct typo in registration form #41498
 10142. refactor: remove redundant code blocks #10142
 72093. refactor: refactor quiz grading logic #72093
+27192. refactor: split large controller into smaller functions #27192
