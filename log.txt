@@ -442,3 +442,4 @@
 6159. feat: create admin dashboard #6159
 51878. test: mock database connection in test suite #51878
 38968. style: reformat files with black #38968
+55635. chore: rename env.example #55635
