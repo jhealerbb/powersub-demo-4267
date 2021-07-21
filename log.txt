@@ -444,3 +444,4 @@
 38968. style: reformat files with black #38968
 55635. chore: rename env.example #55635
 11540. style: standardize quote style #11540
+49195. feat: create admin dashboard #49195
