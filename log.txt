@@ -448,3 +448,4 @@
 11481. chore: clean up unused files #11481
 11258. fix: resolve issue with date parsing #11258
 58312. refactor: split large controller into smaller functions #58312
+45275. fix: correct typo in registration form #45275
