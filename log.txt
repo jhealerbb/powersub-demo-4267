@@ -451,3 +451,4 @@
 45275. fix: correct typo in registration form #45275
 69849. perf: optimize database query for quiz results #69849
 28703. feat: create admin dashboard #28703
+51955. test: mock database connection in test suite #51955
