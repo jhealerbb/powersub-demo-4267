@@ -454,3 +454,4 @@
 51955. test: mock database connection in test suite #51955
 36303. feat: create admin dashboard #36303
 73183. docs: clarify environment setup #73183
+40247. chore: add GitHub actions badge #40247
