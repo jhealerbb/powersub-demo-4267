@@ -460,3 +460,4 @@
 48055. test: test user registration edge cases #48055
 99667. docs: improve code comments in utils #99667
 82907. style: remove trailing whitespace #82907
+55997. fix: fix broken CSS in mobile view #55997
