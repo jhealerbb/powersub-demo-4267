@@ -465,3 +465,4 @@
 74202. perf: reduce image load time #74202
 71306. feat: add user authentication #71306
 56652. test: test user registration edge cases #56652
+47540. docs: update README with setup steps #47540
