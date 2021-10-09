@@ -466,3 +466,4 @@
 71306. feat: add user authentication #71306
 56652. test: test user registration edge cases #56652
 47540. docs: update README with setup steps #47540
+99427. test: increase coverage on auth module #99427
