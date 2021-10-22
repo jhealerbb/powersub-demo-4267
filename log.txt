@@ -468,3 +468,4 @@
 47540. docs: update README with setup steps #47540
 99427. test: increase coverage on auth module #99427
 15224. docs: add API usage examples #15224
+98453. feat: create admin dashboard #98453
