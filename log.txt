@@ -469,3 +469,4 @@
 99427. test: increase coverage on auth module #99427
 15224. docs: add API usage examples #15224
 98453. feat: create admin dashboard #98453
+77470. feat: support email verification #77470
