@@ -470,3 +470,4 @@
 15224. docs: add API usage examples #15224
 98453. feat: create admin dashboard #98453
 77470. feat: support email verification #77470
+31726. test: mock database connection in test suite #31726
