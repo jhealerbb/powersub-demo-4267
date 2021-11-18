@@ -474,3 +474,4 @@
 76517. chore: add GitHub actions badge #76517
 81984. refactor: remove redundant code blocks #81984
 73260. style: remove trailing whitespace #73260
+21807. fix: prevent crash on empty input #21807
