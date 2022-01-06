@@ -487,3 +487,4 @@
 45553. style: standardize quote style #45553
 90580. refactor: refactor quiz grading logic #90580
 84093. feat: enable dark mode toggle #84093
+51506. feat: enable dark mode toggle #51506
