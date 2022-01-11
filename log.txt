@@ -489,3 +489,4 @@
 84093. feat: enable dark mode toggle #84093
 51506. feat: enable dark mode toggle #51506
 16226. fix: prevent crash on empty input #16226
+29543. chore: rename env.example #29543
