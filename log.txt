@@ -490,3 +490,4 @@
 51506. feat: enable dark mode toggle #51506
 16226. fix: prevent crash on empty input #16226
 29543. chore: rename env.example #29543
+47151. test: mock database connection in test suite #47151
