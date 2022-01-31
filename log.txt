@@ -497,3 +497,4 @@
 45223. chore: clean up unused files #45223
 51257. docs: write FAQ section #51257
 81053. docs: document token refresh logic #81053
+35279. test: test user registration edge cases #35279
