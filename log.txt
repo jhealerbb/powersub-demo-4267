@@ -502,3 +502,4 @@
 47236. feat: implement quiz timer feature #47236
 65895. chore: rename env.example #65895
 6964. feat: add user authentication #6964
+13738. fix: correct typo in registration form #13738
