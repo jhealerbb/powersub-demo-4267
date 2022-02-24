@@ -504,3 +504,4 @@
 6964. feat: add user authentication #6964
 13738. fix: correct typo in registration form #13738
 87868. test: add unit test for quiz service #87868
+56494. feat: enable dark mode toggle #56494
