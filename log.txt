@@ -509,3 +509,4 @@
 4960. fix: handle 500 error in quiz API #4960
 67420. perf: reduce image load time #67420
 27345. perf: lazy-load components #27345
+87940. feat: support email verification #87940
