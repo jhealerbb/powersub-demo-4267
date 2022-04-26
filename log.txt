@@ -527,3 +527,4 @@
 84605. fix: resolve issue with date parsing #84605
 64648. docs: write FAQ section #64648
 42152. style: rename variables for clarity #42152
+26718. fix: prevent crash on empty input #26718
