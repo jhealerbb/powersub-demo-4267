@@ -532,3 +532,4 @@
 45337. docs: clarify environment setup #45337
 21935. docs: clarify environment setup #21935
 37577. docs: write FAQ section #37577
+37839. perf: lazy-load components #37839
