@@ -534,3 +534,4 @@
 37577. docs: write FAQ section #37577
 37839. perf: lazy-load components #37839
 73770. feat: support email verification #73770
+21783. chore: update .gitignore #21783
