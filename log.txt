@@ -540,3 +540,4 @@
 49915. chore: add GitHub actions badge #49915
 51754. feat: implement quiz timer feature #51754
 72250. fix: fix null pointer exception on login #72250
+27721. test: add integration test for /submit endpoint #27721
