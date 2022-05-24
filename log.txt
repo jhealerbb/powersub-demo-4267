@@ -542,3 +542,4 @@
 72250. fix: fix null pointer exception on login #72250
 27721. test: add integration test for /submit endpoint #27721
 51046. fix: handle 500 error in quiz API #51046
+43872. refactor: remove redundant code blocks #43872
