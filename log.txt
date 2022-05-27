@@ -543,3 +543,4 @@
 27721. test: add integration test for /submit endpoint #27721
 51046. fix: handle 500 error in quiz API #51046
 43872. refactor: remove redundant code blocks #43872
+69380. perf: lazy-load components #69380
