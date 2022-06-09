@@ -547,3 +547,4 @@
 47407. style: apply consistent indentation #47407
 42116. test: test user registration edge cases #42116
 56854. fix: resolve issue with date parsing #56854
+8960. fix: fix broken CSS in mobile view #8960
