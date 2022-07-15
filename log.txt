@@ -556,3 +556,4 @@
 55197. test: add unit test for quiz service #55197
 5893. feat: add export to CSV option #5893
 24659. perf: cache repeated calculations #24659
+66009. perf: reduce image load time #66009
