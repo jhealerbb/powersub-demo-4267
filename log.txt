@@ -557,3 +557,4 @@
 5893. feat: add export to CSV option #5893
 24659. perf: cache repeated calculations #24659
 66009. perf: reduce image load time #66009
+26341. chore: rename env.example #26341
