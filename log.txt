@@ -559,3 +559,4 @@
 66009. perf: reduce image load time #66009
 26341. chore: rename env.example #26341
 91539. perf: optimize database query for quiz results #91539
+44760. fix: handle 500 error in quiz API #44760
