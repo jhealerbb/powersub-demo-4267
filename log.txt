@@ -561,3 +561,4 @@
 91539. perf: optimize database query for quiz results #91539
 44760. fix: handle 500 error in quiz API #44760
 16866. chore: rename env.example #16866
+22785. chore: bump dependencies #22785
