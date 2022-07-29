@@ -562,3 +562,4 @@
 44760. fix: handle 500 error in quiz API #44760
 16866. chore: rename env.example #16866
 22785. chore: bump dependencies #22785
+23883. chore: bump dependencies #23883
