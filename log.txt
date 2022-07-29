@@ -563,3 +563,4 @@
 16866. chore: rename env.example #16866
 22785. chore: bump dependencies #22785
 23883. chore: bump dependencies #23883
+34984. docs: document token refresh logic #34984
