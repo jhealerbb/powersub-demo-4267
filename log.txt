@@ -564,3 +564,4 @@
 22785. chore: bump dependencies #22785
 23883. chore: bump dependencies #23883
 34984. docs: document token refresh logic #34984
+43099. refactor: clean up auth middleware #43099
