@@ -567,3 +567,4 @@
 43099. refactor: clean up auth middleware #43099
 8837. chore: update .gitignore #8837
 77939. style: apply consistent indentation #77939
+97907. perf: lazy-load components #97907
