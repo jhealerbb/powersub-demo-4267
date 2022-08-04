@@ -570,3 +570,4 @@
 97907. perf: lazy-load components #97907
 61555. chore: update .gitignore #61555
 71509. style: rename variables for clarity #71509
+45390. fix: handle 500 error in quiz API #45390
