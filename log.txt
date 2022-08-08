@@ -573,3 +573,4 @@
 45390. fix: handle 500 error in quiz API #45390
 41106. fix: fix null pointer exception on login #41106
 52251. feat: support email verification #52251
+52796. refactor: refactor quiz grading logic #52796
