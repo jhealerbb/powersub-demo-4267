@@ -577,3 +577,4 @@
 86903. fix: resolve issue with date parsing #86903
 24610. fix: fix null pointer exception on login #24610
 85070. perf: reduce image load time #85070
+36507. test: add unit test for quiz service #36507
