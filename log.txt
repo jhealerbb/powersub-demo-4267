@@ -579,3 +579,4 @@
 85070. perf: reduce image load time #85070
 36507. test: add unit test for quiz service #36507
 32560. fix: handle 500 error in quiz API #32560
+9799. fix: correct typo in registration form #9799
