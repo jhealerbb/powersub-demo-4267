@@ -581,3 +581,4 @@
 32560. fix: handle 500 error in quiz API #32560
 9799. fix: correct typo in registration form #9799
 10427. fix: correct typo in registration form #10427
+81945. feat: add export to CSV option #81945
