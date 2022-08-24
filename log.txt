@@ -584,3 +584,4 @@
 81945. feat: add export to CSV option #81945
 16943. test: test user registration edge cases #16943
 1431. chore: rename env.example #1431
+87225. fix: correct typo in registration form #87225
