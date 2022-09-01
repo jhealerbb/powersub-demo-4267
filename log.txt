@@ -586,3 +586,4 @@
 1431. chore: rename env.example #1431
 87225. fix: correct typo in registration form #87225
 38097. chore: rename env.example #38097
+39463. refactor: clean up auth middleware #39463
