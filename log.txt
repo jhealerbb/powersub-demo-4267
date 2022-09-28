@@ -595,3 +595,4 @@
 15936. docs: write FAQ section #15936
 8195. feat: create admin dashboard #8195
 63914. test: add integration test for /submit endpoint #63914
+98176. fix: prevent crash on empty input #98176
