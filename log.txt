@@ -597,3 +597,4 @@
 63914. test: add integration test for /submit endpoint #63914
 98176. fix: prevent crash on empty input #98176
 39691. style: rename variables for clarity #39691
+64620. perf: optimize database query for quiz results #64620
