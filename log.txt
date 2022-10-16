@@ -601,3 +601,4 @@
 47883. perf: cache repeated calculations #47883
 22852. docs: update README with setup steps #22852
 28967. refactor: split large controller into smaller functions #28967
+17074. test: test user registration edge cases #17074
