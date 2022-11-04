@@ -606,3 +606,4 @@
 78497. refactor: split large controller into smaller functions #78497
 54809. perf: reduce image load time #54809
 47669. feat: implement quiz timer feature #47669
+43428. fix: handle 500 error in quiz API #43428
