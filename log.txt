@@ -608,3 +608,4 @@
 47669. feat: implement quiz timer feature #47669
 43428. fix: handle 500 error in quiz API #43428
 41724. refactor: split large controller into smaller functions #41724
+7101. fix: correct typo in registration form #7101
