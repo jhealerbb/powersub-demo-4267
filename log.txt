@@ -610,3 +610,4 @@
 41724. refactor: split large controller into smaller functions #41724
 7101. fix: correct typo in registration form #7101
 34355. feat: add export to CSV option #34355
+59630. fix: fix broken CSS in mobile view #59630
