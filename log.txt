@@ -612,3 +612,4 @@
 34355. feat: add export to CSV option #34355
 59630. fix: fix broken CSS in mobile view #59630
 42103. perf: lazy-load components #42103
+28745. chore: add GitHub actions badge #28745
