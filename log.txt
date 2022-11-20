@@ -614,3 +614,4 @@
 42103. perf: lazy-load components #42103
 28745. chore: add GitHub actions badge #28745
 65280. test: increase coverage on auth module #65280
+60446. perf: reduce image load time #60446
