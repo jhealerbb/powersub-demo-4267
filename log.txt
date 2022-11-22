@@ -617,3 +617,4 @@
 60446. perf: reduce image load time #60446
 93932. perf: reduce image load time #93932
 97262. style: apply consistent indentation #97262
+3931. perf: optimize database query for quiz results #3931
