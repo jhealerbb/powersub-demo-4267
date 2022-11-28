@@ -622,3 +622,4 @@
 97425. style: reformat files with black #97425
 82511. chore: add GitHub actions badge #82511
 53819. test: add integration test for /submit endpoint #53819
+32014. perf: optimize database query for quiz results #32014
