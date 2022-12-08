@@ -626,3 +626,4 @@
 6599. refactor: clean up auth middleware #6599
 88398. style: rename variables for clarity #88398
 89020. docs: improve code comments in utils #89020
+22786. style: remove trailing whitespace #22786
