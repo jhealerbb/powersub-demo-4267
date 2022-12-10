@@ -627,3 +627,4 @@
 88398. style: rename variables for clarity #88398
 89020. docs: improve code comments in utils #89020
 22786. style: remove trailing whitespace #22786
+99192. perf: optimize database query for quiz results #99192
