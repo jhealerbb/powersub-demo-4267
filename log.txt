@@ -628,3 +628,4 @@
 89020. docs: improve code comments in utils #89020
 22786. style: remove trailing whitespace #22786
 99192. perf: optimize database query for quiz results #99192
+4664. chore: update .gitignore #4664
