@@ -630,3 +630,4 @@
 99192. perf: optimize database query for quiz results #99192
 4664. chore: update .gitignore #4664
 12295. chore: clean up unused files #12295
+62479. fix: fix broken CSS in mobile view #62479
