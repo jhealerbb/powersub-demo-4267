@@ -631,3 +631,4 @@
 4664. chore: update .gitignore #4664
 12295. chore: clean up unused files #12295
 62479. fix: fix broken CSS in mobile view #62479
+5769. test: test user registration edge cases #5769
