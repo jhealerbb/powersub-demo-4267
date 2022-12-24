@@ -633,3 +633,4 @@
 62479. fix: fix broken CSS in mobile view #62479
 5769. test: test user registration edge cases #5769
 51087. refactor: organize models into subfolders #51087
+9246. chore: add GitHub actions badge #9246
