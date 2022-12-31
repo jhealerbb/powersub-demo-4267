@@ -637,3 +637,4 @@
 38276. test: mock database connection in test suite #38276
 41093. chore: rename env.example #41093
 9501. refactor: remove redundant code blocks #9501
+43650. feat: add export to CSV option #43650
