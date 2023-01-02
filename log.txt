@@ -639,3 +639,4 @@
 9501. refactor: remove redundant code blocks #9501
 43650. feat: add export to CSV option #43650
 32344. refactor: remove redundant code blocks #32344
+52383. perf: optimize database query for quiz results #52383
