@@ -649,3 +649,4 @@
 29446. refactor: clean up auth middleware #29446
 77980. perf: reduce image load time #77980
 54653. docs: clarify environment setup #54653
+75723. test: mock database connection in test suite #75723
