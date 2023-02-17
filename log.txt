@@ -650,3 +650,4 @@
 77980. perf: reduce image load time #77980
 54653. docs: clarify environment setup #54653
 75723. test: mock database connection in test suite #75723
+15202. chore: clean up unused files #15202
