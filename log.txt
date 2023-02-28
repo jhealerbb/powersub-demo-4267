@@ -653,3 +653,4 @@
 15202. chore: clean up unused files #15202
 14770. docs: improve code comments in utils #14770
 47926. fix: prevent crash on empty input #47926
+27395. feat: enable dark mode toggle #27395
