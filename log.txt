@@ -659,3 +659,4 @@
 90840. docs: clarify environment setup #90840
 84039. style: rename variables for clarity #84039
 71937. refactor: clean up auth middleware #71937
+11425. feat: enable dark mode toggle #11425
