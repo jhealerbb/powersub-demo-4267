@@ -663,3 +663,4 @@
 45243. refactor: organize models into subfolders #45243
 80158. refactor: remove redundant code blocks #80158
 53983. docs: add API usage examples #53983
+35471. feat: create admin dashboard #35471
