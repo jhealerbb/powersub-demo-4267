@@ -667,3 +667,4 @@
 4667. fix: resolve issue with date parsing #4667
 21086. style: apply consistent indentation #21086
 17117. refactor: organize models into subfolders #17117
+1727. fix: handle 500 error in quiz API #1727
