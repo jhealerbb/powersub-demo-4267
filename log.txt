@@ -672,3 +672,4 @@
 4425. chore: clean up unused files #4425
 14611. test: add integration test for /submit endpoint #14611
 12238. test: mock database connection in test suite #12238
+99070. fix: fix null pointer exception on login #99070
