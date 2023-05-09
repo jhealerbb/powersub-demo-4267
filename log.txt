@@ -677,3 +677,4 @@
 42933. refactor: clean up auth middleware #42933
 30209. refactor: refactor quiz grading logic #30209
 89886. chore: add GitHub actions badge #89886
+11679. style: remove trailing whitespace #11679
