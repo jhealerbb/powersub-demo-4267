@@ -680,3 +680,4 @@
 11679. style: remove trailing whitespace #11679
 59804. test: increase coverage on auth module #59804
 10116. style: remove trailing whitespace #10116
+21020. fix: handle 500 error in quiz API #21020
