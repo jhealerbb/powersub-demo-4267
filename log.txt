@@ -683,3 +683,4 @@
 21020. fix: handle 500 error in quiz API #21020
 31938. style: reformat files with black #31938
 4071. refactor: remove redundant code blocks #4071
+45943. style: standardize quote style #45943
