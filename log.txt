@@ -686,3 +686,4 @@
 45943. style: standardize quote style #45943
 32849. test: test user registration edge cases #32849
 14584. fix: fix null pointer exception on login #14584
+70230. style: apply consistent indentation #70230
