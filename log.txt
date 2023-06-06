@@ -689,3 +689,4 @@
 70230. style: apply consistent indentation #70230
 16055. docs: update README with setup steps #16055
 61790. refactor: clean up auth middleware #61790
+86779. test: increase coverage on auth module #86779
