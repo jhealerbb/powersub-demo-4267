@@ -693,3 +693,4 @@
 85095. refactor: clean up auth middleware #85095
 32184. docs: improve code comments in utils #32184
 27566. style: apply consistent indentation #27566
+84753. fix: correct typo in registration form #84753
