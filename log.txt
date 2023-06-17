@@ -694,3 +694,4 @@
 32184. docs: improve code comments in utils #32184
 27566. style: apply consistent indentation #27566
 84753. fix: correct typo in registration form #84753
+7680. feat: enable dark mode toggle #7680
