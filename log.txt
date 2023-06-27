@@ -697,3 +697,4 @@
 7680. feat: enable dark mode toggle #7680
 81837. docs: write FAQ section #81837
 53418. style: rename variables for clarity #53418
+84499. chore: clean up unused files #84499
