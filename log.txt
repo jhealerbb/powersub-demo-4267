@@ -700,3 +700,4 @@
 84499. chore: clean up unused files #84499
 52683. refactor: organize models into subfolders #52683
 68482. chore: rename env.example #68482
+79317. perf: lazy-load components #79317
