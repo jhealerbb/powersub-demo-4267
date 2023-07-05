@@ -701,3 +701,4 @@
 52683. refactor: organize models into subfolders #52683
 68482. chore: rename env.example #68482
 79317. perf: lazy-load components #79317
+74509. fix: prevent crash on empty input #74509
