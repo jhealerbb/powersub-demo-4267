@@ -703,3 +703,4 @@
 79317. perf: lazy-load components #79317
 74509. fix: prevent crash on empty input #74509
 98676. docs: update README with setup steps #98676
+77429. docs: clarify environment setup #77429
