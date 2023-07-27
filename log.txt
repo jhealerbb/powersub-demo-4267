@@ -708,3 +708,4 @@
 62029. style: standardize quote style #62029
 38899. chore: rename env.example #38899
 98418. perf: optimize database query for quiz results #98418
+61838. docs: update README with setup steps #61838
