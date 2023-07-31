@@ -712,3 +712,4 @@
 30980. test: increase coverage on auth module #30980
 69306. chore: update .gitignore #69306
 83407. style: reformat files with black #83407
+31615. style: standardize quote style #31615
