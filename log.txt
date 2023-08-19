@@ -718,3 +718,4 @@
 57650. style: reformat files with black #57650
 61437. perf: reduce image load time #61437
 42323. refactor: remove redundant code blocks #42323
+64371. fix: prevent crash on empty input #64371
