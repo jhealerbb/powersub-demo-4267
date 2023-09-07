@@ -724,3 +724,4 @@
 84246. fix: prevent crash on empty input #84246
 9641. feat: add export to CSV option #9641
 89965. chore: bump dependencies #89965
+94389. test: increase coverage on auth module #94389
