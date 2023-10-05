@@ -726,3 +726,4 @@
 89965. chore: bump dependencies #89965
 94389. test: increase coverage on auth module #94389
 37985. style: standardize quote style #37985
+6269. chore: rename env.example #6269
