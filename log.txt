@@ -728,3 +728,4 @@
 37985. style: standardize quote style #37985
 6269. chore: rename env.example #6269
 0392. refactor: refactor quiz grading logic #392
+59011. test: test user registration edge cases #59011
