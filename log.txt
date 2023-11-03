@@ -737,3 +737,4 @@
 0595. feat: add export to CSV option #595
 46567. feat: add export to CSV option #46567
 29206. refactor: refactor quiz grading logic #29206
+36978. fix: fix broken CSS in mobile view #36978
