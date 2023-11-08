@@ -740,3 +740,4 @@
 36978. fix: fix broken CSS in mobile view #36978
 44328. docs: clarify environment setup #44328
 5571. feat: implement quiz timer feature #5571
+48844. test: add integration test for /submit endpoint #48844
