@@ -742,3 +742,4 @@
 5571. feat: implement quiz timer feature #5571
 48844. test: add integration test for /submit endpoint #48844
 41380. feat: enable dark mode toggle #41380
+45178. fix: handle 500 error in quiz API #45178
