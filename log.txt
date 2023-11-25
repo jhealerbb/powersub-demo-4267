@@ -745,3 +745,4 @@
 45178. fix: handle 500 error in quiz API #45178
 67766. fix: prevent crash on empty input #67766
 27115. chore: add GitHub actions badge #27115
+25676. fix: resolve issue with date parsing #25676
