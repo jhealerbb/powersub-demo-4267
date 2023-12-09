@@ -746,3 +746,4 @@
 67766. fix: prevent crash on empty input #67766
 27115. chore: add GitHub actions badge #27115
 25676. fix: resolve issue with date parsing #25676
+36862. test: add integration test for /submit endpoint #36862
