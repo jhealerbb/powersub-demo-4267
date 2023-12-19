@@ -751,3 +751,4 @@
 20113. feat: enable dark mode toggle #20113
 10172. feat: add export to CSV option #10172
 28329. docs: write FAQ section #28329
+66277. feat: support email verification #66277
