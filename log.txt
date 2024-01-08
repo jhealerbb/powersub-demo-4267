@@ -760,3 +760,4 @@
 65839. feat: support email verification #65839
 69321. style: reformat files with black #69321
 47127. fix: handle 500 error in quiz API #47127
+53924. docs: add API usage examples #53924
