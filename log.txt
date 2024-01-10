@@ -763,3 +763,4 @@
 53924. docs: add API usage examples #53924
 83049. chore: add GitHub actions badge #83049
 47468. fix: fix broken CSS in mobile view #47468
+70467. refactor: split large controller into smaller functions #70467
