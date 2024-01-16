@@ -764,3 +764,4 @@
 83049. chore: add GitHub actions badge #83049
 47468. fix: fix broken CSS in mobile view #47468
 70467. refactor: split large controller into smaller functions #70467
+14982. test: mock database connection in test suite #14982
