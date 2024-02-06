@@ -770,3 +770,4 @@
 98950. perf: optimize database query for quiz results #98950
 43914. test: increase coverage on auth module #43914
 18620. refactor: refactor quiz grading logic #18620
+98627. refactor: remove redundant code blocks #98627
