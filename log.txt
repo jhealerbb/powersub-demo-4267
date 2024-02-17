@@ -775,3 +775,4 @@
 69596. style: apply consistent indentation #69596
 30701. style: reformat files with black #30701
 44659. test: add integration test for /submit endpoint #44659
+67912. fix: prevent crash on empty input #67912
