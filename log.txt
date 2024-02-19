@@ -776,3 +776,4 @@
 30701. style: reformat files with black #30701
 44659. test: add integration test for /submit endpoint #44659
 67912. fix: prevent crash on empty input #67912
+23517. test: add unit test for quiz service #23517
