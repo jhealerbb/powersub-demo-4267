@@ -777,3 +777,4 @@
 44659. test: add integration test for /submit endpoint #44659
 67912. fix: prevent crash on empty input #67912
 23517. test: add unit test for quiz service #23517
+27660. chore: add GitHub actions badge #27660
