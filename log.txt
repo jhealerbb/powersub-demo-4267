@@ -779,3 +779,4 @@
 23517. test: add unit test for quiz service #23517
 27660. chore: add GitHub actions badge #27660
 29407. docs: document token refresh logic #29407
+89201. fix: handle 500 error in quiz API #89201
