@@ -783,3 +783,4 @@
 73997. refactor: refactor quiz grading logic #73997
 15617. style: remove trailing whitespace #15617
 81096. docs: clarify environment setup #81096
+33993. fix: fix broken CSS in mobile view #33993
