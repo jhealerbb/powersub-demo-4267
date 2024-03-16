@@ -784,3 +784,4 @@
 15617. style: remove trailing whitespace #15617
 81096. docs: clarify environment setup #81096
 33993. fix: fix broken CSS in mobile view #33993
+0520. chore: update .gitignore #520
