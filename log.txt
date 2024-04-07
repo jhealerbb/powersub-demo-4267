@@ -790,3 +790,4 @@
 6046. test: add integration test for /submit endpoint #6046
 66570. style: standardize quote style #66570
 55160. test: add unit test for quiz service #55160
+47392. test: add unit test for quiz service #47392
