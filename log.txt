@@ -792,3 +792,4 @@
 55160. test: add unit test for quiz service #55160
 47392. test: add unit test for quiz service #47392
 21440. docs: write FAQ section #21440
+44446. test: test user registration edge cases #44446
