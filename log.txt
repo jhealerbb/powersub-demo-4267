@@ -794,3 +794,4 @@
 21440. docs: write FAQ section #21440
 44446. test: test user registration edge cases #44446
 21517. docs: update README with setup steps #21517
+64322. feat: add user authentication #64322
