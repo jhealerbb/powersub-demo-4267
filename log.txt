@@ -800,3 +800,4 @@
 65345. refactor: split large controller into smaller functions #65345
 43850. docs: improve code comments in utils #43850
 69457. feat: support email verification #69457
+17725. fix: handle 500 error in quiz API #17725
