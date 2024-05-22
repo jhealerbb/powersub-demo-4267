@@ -807,3 +807,4 @@
 39970. docs: add API usage examples #39970
 58376. perf: reduce image load time #58376
 59724. test: test user registration edge cases #59724
+0849. chore: update .gitignore #849
