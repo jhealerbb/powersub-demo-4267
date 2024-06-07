@@ -812,3 +812,4 @@
 30706. chore: clean up unused files #30706
 33083. test: add integration test for /submit endpoint #33083
 40294. fix: correct typo in registration form #40294
+34957. perf: reduce image load time #34957
