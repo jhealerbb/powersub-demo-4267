@@ -813,3 +813,4 @@
 33083. test: add integration test for /submit endpoint #33083
 40294. fix: correct typo in registration form #40294
 34957. perf: reduce image load time #34957
+63441. fix: resolve issue with date parsing #63441
