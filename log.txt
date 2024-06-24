@@ -817,3 +817,4 @@
 15141. feat: create admin dashboard #15141
 51301. chore: rename env.example #51301
 8023. perf: optimize database query for quiz results #8023
+0815. style: remove trailing whitespace #815
