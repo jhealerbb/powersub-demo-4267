@@ -819,3 +819,4 @@
 8023. perf: optimize database query for quiz results #8023
 0815. style: remove trailing whitespace #815
 90974. docs: clarify environment setup #90974
+44419. fix: fix broken CSS in mobile view #44419
