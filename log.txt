@@ -820,3 +820,4 @@
 0815. style: remove trailing whitespace #815
 90974. docs: clarify environment setup #90974
 44419. fix: fix broken CSS in mobile view #44419
+68179. feat: support email verification #68179
