@@ -823,3 +823,4 @@
 68179. feat: support email verification #68179
 73255. fix: correct typo in registration form #73255
 95557. docs: add API usage examples #95557
+71749. perf: cache repeated calculations #71749
