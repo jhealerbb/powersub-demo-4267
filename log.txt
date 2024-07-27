@@ -826,3 +826,4 @@
 71749. perf: cache repeated calculations #71749
 81024. chore: rename env.example #81024
 95396. style: remove trailing whitespace #95396
+52248. refactor: clean up auth middleware #52248
