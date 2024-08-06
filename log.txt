@@ -830,3 +830,4 @@
 77892. feat: add user authentication #77892
 10894. fix: resolve issue with date parsing #10894
 5496. style: apply consistent indentation #5496
+22879. fix: fix null pointer exception on login #22879
