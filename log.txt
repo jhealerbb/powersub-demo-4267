@@ -850,3 +850,4 @@
 73236. chore: clean up unused files #73236
 31375. refactor: organize models into subfolders #31375
 27941. perf: optimize database query for quiz results #27941
+46586. chore: update .gitignore #46586
