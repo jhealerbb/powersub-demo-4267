@@ -858,3 +858,4 @@
 97566. style: apply consistent indentation #97566
 75083. fix: resolve issue with date parsing #75083
 81079. style: remove trailing whitespace #81079
+92255. feat: support email verification #92255
