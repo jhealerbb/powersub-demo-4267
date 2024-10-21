@@ -860,3 +860,4 @@
 81079. style: remove trailing whitespace #81079
 92255. feat: support email verification #92255
 91433. style: apply consistent indentation #91433
+99224. perf: optimize database query for quiz results #99224
