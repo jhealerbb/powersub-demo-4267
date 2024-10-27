@@ -864,3 +864,4 @@
 91913. perf: cache repeated calculations #91913
 47275. refactor: organize models into subfolders #47275
 66621. docs: improve code comments in utils #66621
+69479. test: increase coverage on auth module #69479
