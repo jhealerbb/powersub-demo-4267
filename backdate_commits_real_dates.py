@@ -6,11 +6,11 @@ from datetime import datetime, timedelta
 # === CONFIGURATION ===
 REPO_DIR = "."  # Use current directory
 COMMIT_FILE = "commit_messages.txt"
-NUM_COMMITS = 1000
+NUM_COMMITS = 100
 
 # 🗓️ SET YOUR DATE RANGE HERE
 # Example: from October 21, 2024 to October 21, 2025
-START_DATE = datetime(2018, 1, 1)
+START_DATE = datetime(2024, 10, 25)
 END_DATE = datetime(2025, 10, 25)
 
 def load_commit_messages(path):

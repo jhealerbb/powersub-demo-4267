@@ -998,3 +998,4 @@
 69619. docs: document token refresh logic #69619
 21471. feat: implement quiz timer feature #21471
 94385. feat: add export to CSV option #94385
+7672. perf: optimize database query for quiz results #7672
