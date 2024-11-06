@@ -1002,3 +1002,4 @@
 44581. refactor: organize models into subfolders #44581
 85261. chore: rename env.example #85261
 15684. fix: fix broken CSS in mobile view #15684
+98527. test: test user registration edge cases #98527
