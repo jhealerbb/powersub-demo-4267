@@ -1003,3 +1003,4 @@
 85261. chore: rename env.example #85261
 15684. fix: fix broken CSS in mobile view #15684
 98527. test: test user registration edge cases #98527
+57320. fix: prevent crash on empty input #57320
