@@ -870,3 +870,4 @@
 90201. chore: update .gitignore #90201
 11406. perf: reduce image load time #11406
 36072. test: increase coverage on auth module #36072
+99620. refactor: split large controller into smaller functions #99620
