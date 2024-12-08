@@ -876,3 +876,4 @@
 47585. style: standardize quote style #47585
 16396. chore: update .gitignore #16396
 15344. chore: update .gitignore #15344
+40601. refactor: clean up auth middleware #40601
