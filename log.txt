@@ -884,3 +884,4 @@
 61014. perf: cache repeated calculations #61014
 24103. feat: add user authentication #24103
 41016. refactor: refactor quiz grading logic #41016
+7637. fix: fix null pointer exception on login #7637
