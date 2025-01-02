@@ -886,3 +886,4 @@
 41016. refactor: refactor quiz grading logic #41016
 7637. fix: fix null pointer exception on login #7637
 47932. fix: correct typo in registration form #47932
+31951. fix: handle 500 error in quiz API #31951
