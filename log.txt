@@ -889,3 +889,4 @@
 31951. fix: handle 500 error in quiz API #31951
 82055. style: apply consistent indentation #82055
 68952. style: standardize quote style #68952
+5942. refactor: remove redundant code blocks #5942
