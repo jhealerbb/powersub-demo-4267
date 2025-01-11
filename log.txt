@@ -891,3 +891,4 @@
 68952. style: standardize quote style #68952
 5942. refactor: remove redundant code blocks #5942
 64028. chore: bump dependencies #64028
+52532. test: test user registration edge cases #52532
