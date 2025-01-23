@@ -895,3 +895,4 @@
 50503. docs: update README with setup steps #50503
 5203. style: standardize quote style #5203
 87349. perf: cache repeated calculations #87349
+92874. style: reformat files with black #92874
