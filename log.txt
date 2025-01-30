@@ -1022,3 +1022,4 @@
 91270. fix: correct typo in registration form #91270
 94474. feat: support email verification #94474
 16563. style: remove trailing whitespace #16563
+23028. feat: enable dark mode toggle #23028
