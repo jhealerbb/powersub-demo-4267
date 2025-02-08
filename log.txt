@@ -899,3 +899,4 @@
 89733. chore: rename env.example #89733
 66810. refactor: refactor quiz grading logic #66810
 19969. fix: fix broken CSS in mobile view #19969
+86736. fix: correct typo in registration form #86736
