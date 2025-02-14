@@ -1026,3 +1026,4 @@
 55711. refactor: clean up auth middleware #55711
 89575. perf: lazy-load components #89575
 67594. test: mock database connection in test suite #67594
+16715. refactor: clean up auth middleware #16715
