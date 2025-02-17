@@ -900,3 +900,4 @@
 66810. refactor: refactor quiz grading logic #66810
 19969. fix: fix broken CSS in mobile view #19969
 86736. fix: correct typo in registration form #86736
+21548. feat: enable dark mode toggle #21548
