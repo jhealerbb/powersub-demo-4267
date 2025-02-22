@@ -1029,3 +1029,4 @@
 16715. refactor: clean up auth middleware #16715
 99039. docs: add API usage examples #99039
 37021. perf: optimize database query for quiz results #37021
+84279. test: mock database connection in test suite #84279
