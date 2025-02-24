@@ -903,3 +903,4 @@
 21548. feat: enable dark mode toggle #21548
 28811. refactor: remove redundant code blocks #28811
 95432. fix: fix broken CSS in mobile view #95432
+37372. chore: rename env.example #37372
