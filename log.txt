@@ -906,3 +906,4 @@
 37372. chore: rename env.example #37372
 44052. feat: enable dark mode toggle #44052
 40614. test: mock database connection in test suite #40614
+71540. docs: clarify environment setup #71540
