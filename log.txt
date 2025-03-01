@@ -908,3 +908,4 @@
 40614. test: mock database connection in test suite #40614
 71540. docs: clarify environment setup #71540
 32899. feat: create admin dashboard #32899
+9287. perf: optimize database query for quiz results #9287
