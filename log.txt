@@ -1031,3 +1031,4 @@
 37021. perf: optimize database query for quiz results #37021
 84279. test: mock database connection in test suite #84279
 48578. fix: handle 500 error in quiz API #48578
+56278. refactor: remove redundant code blocks #56278
