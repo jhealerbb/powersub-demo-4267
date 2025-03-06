@@ -1033,3 +1033,4 @@
 48578. fix: handle 500 error in quiz API #48578
 56278. refactor: remove redundant code blocks #56278
 68390. chore: bump dependencies #68390
+71872. perf: reduce image load time #71872
