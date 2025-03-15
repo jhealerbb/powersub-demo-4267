@@ -1036,3 +1036,4 @@
 71872. perf: reduce image load time #71872
 97028. docs: write FAQ section #97028
 54204. perf: lazy-load components #54204
+97370. test: test user registration edge cases #97370
