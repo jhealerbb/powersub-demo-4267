@@ -916,3 +916,4 @@
 76639. docs: clarify environment setup #76639
 47660. chore: bump dependencies #47660
 16157. style: rename variables for clarity #16157
+86818. feat: enable dark mode toggle #86818
