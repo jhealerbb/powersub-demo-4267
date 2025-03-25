@@ -918,3 +918,4 @@
 16157. style: rename variables for clarity #16157
 86818. feat: enable dark mode toggle #86818
 69249. feat: create admin dashboard #69249
+13409. fix: fix null pointer exception on login #13409
