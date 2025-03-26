@@ -1038,3 +1038,4 @@
 54204. perf: lazy-load components #54204
 97370. test: test user registration edge cases #97370
 41504. feat: add export to CSV option #41504
+95108. perf: optimize database query for quiz results #95108
