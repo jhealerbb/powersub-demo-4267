@@ -1043,3 +1043,4 @@
 45931. test: mock database connection in test suite #45931
 60367. test: test user registration edge cases #60367
 53183. test: test user registration edge cases #53183
+95368. chore: update .gitignore #95368
