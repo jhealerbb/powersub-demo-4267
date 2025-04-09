@@ -922,3 +922,4 @@
 28132. test: test user registration edge cases #28132
 18853. feat: create admin dashboard #18853
 40161. fix: correct typo in registration form #40161
+71137. fix: correct typo in registration form #71137
