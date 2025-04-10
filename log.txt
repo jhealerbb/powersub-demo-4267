@@ -1046,3 +1046,4 @@
 95368. chore: update .gitignore #95368
 24959. fix: fix null pointer exception on login #24959
 10702. docs: add API usage examples #10702
+61541. feat: support email verification #61541
