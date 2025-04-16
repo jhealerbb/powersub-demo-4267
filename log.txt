@@ -923,3 +923,4 @@
 18853. feat: create admin dashboard #18853
 40161. fix: correct typo in registration form #40161
 71137. fix: correct typo in registration form #71137
+85696. perf: optimize database query for quiz results #85696
