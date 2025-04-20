@@ -1050,3 +1050,4 @@
 99189. docs: improve code comments in utils #99189
 48765. fix: fix broken CSS in mobile view #48765
 51411. test: mock database connection in test suite #51411
+76269. refactor: split large controller into smaller functions #76269
