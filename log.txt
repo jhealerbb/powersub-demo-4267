@@ -1051,3 +1051,4 @@
 48765. fix: fix broken CSS in mobile view #48765
 51411. test: mock database connection in test suite #51411
 76269. refactor: split large controller into smaller functions #76269
+13957. test: increase coverage on auth module #13957
