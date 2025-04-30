@@ -931,3 +931,4 @@
 55764. chore: rename env.example #55764
 54215. fix: prevent crash on empty input #54215
 23278. chore: clean up unused files #23278
+0988. test: test user registration edge cases #988
