@@ -934,3 +934,4 @@
 0988. test: test user registration edge cases #988
 90923. fix: handle 500 error in quiz API #90923
 77174. fix: correct typo in registration form #77174
+18509. feat: support email verification #18509
