@@ -1054,3 +1054,4 @@
 13957. test: increase coverage on auth module #13957
 46544. chore: clean up unused files #46544
 49719. docs: document token refresh logic #49719
+8128. chore: update .gitignore #8128
