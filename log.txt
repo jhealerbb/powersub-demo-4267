@@ -935,3 +935,4 @@
 90923. fix: handle 500 error in quiz API #90923
 77174. fix: correct typo in registration form #77174
 18509. feat: support email verification #18509
+49233. fix: resolve issue with date parsing #49233
