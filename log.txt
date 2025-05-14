@@ -937,3 +937,4 @@
 18509. feat: support email verification #18509
 49233. fix: resolve issue with date parsing #49233
 59462. chore: update .gitignore #59462
+8360. feat: enable dark mode toggle #8360
