@@ -941,3 +941,4 @@
 52293. chore: update .gitignore #52293
 57638. fix: resolve issue with date parsing #57638
 37051. chore: clean up unused files #37051
+35221. fix: prevent crash on empty input #35221
