@@ -1059,3 +1059,4 @@
 26092. test: mock database connection in test suite #26092
 67445. docs: improve code comments in utils #67445
 96674. refactor: remove redundant code blocks #96674
+79739. refactor: clean up auth middleware #79739
