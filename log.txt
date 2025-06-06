@@ -946,3 +946,4 @@
 33010. refactor: clean up auth middleware #33010
 17479. style: standardize quote style #17479
 15087. style: apply consistent indentation #15087
+8332. perf: optimize database query for quiz results #8332
