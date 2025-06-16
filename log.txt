@@ -950,3 +950,4 @@
 78444. docs: add API usage examples #78444
 21194. docs: clarify environment setup #21194
 6941. docs: clarify environment setup #6941
+81602. fix: fix broken CSS in mobile view #81602
