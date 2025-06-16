@@ -1062,3 +1062,4 @@
 79739. refactor: clean up auth middleware #79739
 31157. style: rename variables for clarity #31157
 17192. style: standardize quote style #17192
+45111. refactor: organize models into subfolders #45111
