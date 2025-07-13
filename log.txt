@@ -1069,3 +1069,4 @@
 37884. perf: reduce image load time #37884
 49262. style: rename variables for clarity #49262
 29340. perf: lazy-load components #29340
+26142. fix: fix broken CSS in mobile view #26142
