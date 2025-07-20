@@ -958,3 +958,4 @@
 91538. refactor: clean up auth middleware #91538
 41305. refactor: organize models into subfolders #41305
 95924. feat: create admin dashboard #95924
+44545. perf: optimize database query for quiz results #44545
