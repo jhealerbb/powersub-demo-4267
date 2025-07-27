@@ -961,3 +961,4 @@
 44545. perf: optimize database query for quiz results #44545
 83210. refactor: organize models into subfolders #83210
 96444. refactor: remove redundant code blocks #96444
+60620. test: increase coverage on auth module #60620
