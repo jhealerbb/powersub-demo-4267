@@ -1073,3 +1073,4 @@
 59743. test: increase coverage on auth module #59743
 60239. docs: update README with setup steps #60239
 26238. chore: update .gitignore #26238
+40692. style: remove trailing whitespace #40692
