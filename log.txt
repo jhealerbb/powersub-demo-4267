@@ -1077,3 +1077,4 @@
 33200. test: mock database connection in test suite #33200
 64886. refactor: remove redundant code blocks #64886
 32473. refactor: organize models into subfolders #32473
+18979. test: increase coverage on auth module #18979
