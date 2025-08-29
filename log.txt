@@ -1079,3 +1079,4 @@
 32473. refactor: organize models into subfolders #32473
 18979. test: increase coverage on auth module #18979
 63706. fix: handle 500 error in quiz API #63706
+87774. fix: resolve issue with date parsing #87774
