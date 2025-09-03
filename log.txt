@@ -1080,3 +1080,4 @@
 18979. test: increase coverage on auth module #18979
 63706. fix: handle 500 error in quiz API #63706
 87774. fix: resolve issue with date parsing #87774
+93324. feat: support email verification #93324
