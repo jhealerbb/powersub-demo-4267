@@ -983,3 +983,4 @@
 8668. docs: write FAQ section #8668
 88541. docs: clarify environment setup #88541
 10732. perf: reduce image load time #10732
+68780. feat: create admin dashboard #68780
