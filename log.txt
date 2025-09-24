@@ -986,3 +986,4 @@
 68780. feat: create admin dashboard #68780
 90762. refactor: clean up auth middleware #90762
 55836. fix: fix null pointer exception on login #55836
+37038. test: test user registration edge cases #37038
