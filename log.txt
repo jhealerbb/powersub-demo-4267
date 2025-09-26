@@ -1086,3 +1086,4 @@
 24475. perf: lazy-load components #24475
 71763. style: remove trailing whitespace #71763
 84669. feat: implement quiz timer feature #84669
+14406. fix: fix null pointer exception on login #14406
