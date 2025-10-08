@@ -1092,3 +1092,4 @@
 80515. chore: clean up unused files #80515
 43366. docs: write FAQ section #43366
 58411. fix: prevent crash on empty input #58411
+37828. perf: reduce image load time #37828
