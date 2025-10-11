@@ -995,3 +995,4 @@
 28346. docs: update README with setup steps #28346
 4638. fix: resolve issue with date parsing #4638
 40665. perf: reduce image load time #40665
+69619. docs: document token refresh logic #69619
