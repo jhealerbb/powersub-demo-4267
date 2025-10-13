@@ -1093,3 +1093,4 @@
 43366. docs: write FAQ section #43366
 58411. fix: prevent crash on empty input #58411
 37828. perf: reduce image load time #37828
+27911. feat: add export to CSV option #27911
