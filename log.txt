@@ -1095,3 +1095,4 @@
 37828. perf: reduce image load time #37828
 27911. feat: add export to CSV option #27911
 80320. fix: prevent crash on empty input #80320
+18247. test: test user registration edge cases #18247
