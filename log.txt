@@ -1097,3 +1097,4 @@
 80320. fix: prevent crash on empty input #80320
 18247. test: test user registration edge cases #18247
 79992. test: increase coverage on auth module #79992
+37196. test: add integration test for /submit endpoint #37196
